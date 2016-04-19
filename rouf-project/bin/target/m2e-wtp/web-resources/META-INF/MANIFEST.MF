@@ -1,9 +1,0 @@
-Manifest-Version: 1.0
-Implementation-Title: rouf-project
-Implementation-Version: 1.0.0-SNAPSHOT
-Built-By: Guilherme
-Implementation-Vendor-Id: br.com.rouf
-Build-Jdk: 1.8.0_77
-Created-By: Maven Integration for Eclipse
-Implementation-Vendor: Pivotal Software, Inc.
-
